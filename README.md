@@ -1,6 +1,4 @@
 ![Hasna Hena Busra - Full Stack Web Developer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hasna%20Hena%20Busra&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20Next.js%20%7C%20React%20%7C%20TypeScript&descAlignY=55&descSize=18)
-
-
 # Hi, I'm Hasna Hena Busra 👋
 
 ### 💻 Full Stack Web Developer | Next.js | React | TypeScript
