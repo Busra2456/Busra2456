@@ -105,3 +105,23 @@ I'm always interested in learning, collaborating, and working on exciting web de
 ### ✨ Thanks for visiting my profile!
 
 ⭐ Feel free to explore my repositories and projects.
+
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Busra2456&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Busra2456&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Busra2456&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 **LinkedIn:** [Hasna Hena Busra](https://www.linkedin.com/in/hasna-hena-busra-586a69428/)
+- 🌐 **Portfolio:** [My Portfolio](https://my-portfolio-dev-drho.vercel.app/)
+- 🤲 **Daan — Donate with Trust:** [Live Website](https://daan-frontend.vercel.app/)
+- 🔧 **FixItNow:** [Live Website](https://fixitnow-frontend-dev-5dun.vercel.app/)
